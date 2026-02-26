@@ -1,7 +1,7 @@
 
   # AI Dementia Detection Platform
 
-  This is a code bundle for AI Dementia Detection Platform. The original project is available at https://www.figma.com/design/qwl54RKUYnM3scdOAKBZ64/AI-Dementia-Detection-Platform.
+  This is an AI Dementia Detection Platform. check the live website at https://series-aid-82912328.figma.site/
 
   ## Running the code
 
